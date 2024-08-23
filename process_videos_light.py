@@ -54,7 +54,7 @@ for video in videos_to_process:
 
     # Move the scores.pckl file to the desired directory and rename it
     source_dir = os.path.join(os.path.dirname(video), video_name, "pywork")
-    destination_dir = "/Users/domi/Bachelor-Thesis/results/light-asd"
+    destination_dir = "../../results/light-asd"
     if os.path.exists(source_dir):
         scores_file = os.path.join(source_dir, "scores.pckl")
         if os.path.exists(scores_file):
