@@ -7,8 +7,6 @@ This repository contains the code and model weights for our [paper](https://open
 > A Light Weight Model for Active Speaker Detection  
 > Junhua Liao, Haihan Duan, Kanghui Feng, Wanbing Zhao, Yanbing Yang, Liangyin Chen
 
-TODO: add requirement.txt and write new read me with better steps
-
 ---
 
 ### Evaluate on AVA-ActiveSpeaker dataset
